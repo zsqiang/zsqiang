@@ -1,30 +1,37 @@
-# JBlog Jekyll Theme
+# Fexo
 
-**[JBlog](http://alperenbozkurt.net/JBlog)** is a simple jekyll theme.
+> A minimalist design theme for Hexo.
 
-I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+> 一个极简主义设计的 Hexo 主题。
 
-If you like this theme or using it, please give a **star** for motivation.
+<a href="http://forsigner.com/" target="_blank">Demo</a>
+ |
+<a href="http://forsigner.com/2016/03/10/fexo-doc-zh-cn/" target="_blank">文档</a>
+ |
+<a href="http://forsigner.com/2016/03/10/fexo-doc-zh-tw/" target="_blank">文檔</a>
+ |
+<a href="http://forsigner.com/2016/03/10/fexo-doc-en/" target="_blank">Doc</a>
 
-## Preview
+![screenshot-1](http://forsigner.com/images/fexo/mobile.png?v=1)
+![screenshot-1](http://forsigner.com/images/fexo/fexo-1.png?v=1)
+![screenshot-2](http://forsigner.com/images/fexo/fexo-2.png?v1)
 
-![Home Page](/assets/img/screenshot-home.png)    
-![Post Page](/assets/img/screenshot-post.png)
 
-See a [live version of JBlog](http://alperenbozkurt.net/JBlog) hosted on GitHub.
+### Browser compatibility
 
-## Getting Started
+- IE8+
+- Firefox
+- Chrome
+- Safari
+- Opera
 
-To learn how to install and use this theme check out the [Setup Guide](http://alperenbozkurt.net/JBlog/JBlog-theme/) for more information or apply the following instructions.
+### Contributing
 
-##Installation
+All kinds of contributions are welcome.
+All pull requests should be done on the dev branch.
 
-- Fork the Repo
-- Edit _config.yml file.
-	- Edit url as **https**://yourusername.github.io 
-	- and others
-- Remove sample posts from _posts folder and add yours.
-- Edit index.md file in about folder.
-- Change repo name to YourUserName.github.io
-- Open "Github Pages" from settings page
-- Click the star icon at the top of this page ;)
+欢迎任何改善的贡献，欢迎 Pull request 到 dev 分支。
+
+### License
+
+  [MIT](LICENSE)
